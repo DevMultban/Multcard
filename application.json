@@ -2,11 +2,11 @@
   "pages": [
     {
       "id": "MainPage",
-      "isDefault": true
+      "isDefault": false
     },
     {
       "id": "LoginPage",
-      "isDefault": false
+      "isDefault": true
     }
   ],
   "viewMode": false,
